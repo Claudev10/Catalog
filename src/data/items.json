@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Livro",
+        "price": 10.99,
+        "imgUrl": "/img/book.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Computador",
+        "price": 1199,
+        "imgUrl": "/img/computer.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Banana",
+        "price": 1.05,
+        "imgUrl": "/img/banana.jpg"
+    },
+    {
+        "id": 4,
+        "name": "carro",
+        "price": 47985,
+        "imgUrl": "/img/car.jpg"
+    },
+    {
+        "id": 5,
+        "name": "casa",
+        "price": 545000,
+        "imgUrl": "/img/house.jpg"
+    },
+    {
+        "id": 6,
+        "name": "aviao",
+        "price": 2900000,
+        "imgUrl": "/img/plane.jpg"
+    },
+    {
+        "id": 7,
+        "name": "barco",
+        "price": 1700000,
+        "imgUrl": "/img/boat.jpg"
+    },
+    {
+        "id": 8,
+        "name": "smartphone",
+        "price": 4900,
+        "imgUrl": "/img/phone.jpg"
+    }
+]
